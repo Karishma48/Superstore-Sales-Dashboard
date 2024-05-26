@@ -9,3 +9,5 @@ This dashboard is a treasure trove of information about the performance of our s
 The process started with gathering data from the reliable Kaggle website. From then on, I had to put on my work gloves and get down to business, carefully cleaning the dataset, creating critical KPIs, and carrying out operations that would change the world.
 
  An attractive dashboard with well-considered, informative line charts
+
+![internship project](https://github.com/Karishma48/Superstore-Sales-Dashboard/assets/168215245/67878650-439e-41f6-bd3b-2235d9d2d796)
